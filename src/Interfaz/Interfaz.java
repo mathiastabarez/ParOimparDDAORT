@@ -24,6 +24,6 @@ public class Interfaz {
             logica.agregar(scanner.nextInt());
         } while (!logica.hayResultado());
         System.out.println(logica.getResultado());
-        //Comentario
+        //Comentario 2
     }
 }
